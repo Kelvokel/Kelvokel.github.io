@@ -1,10 +1,11 @@
 ---
-layout: default
+KELVIN HOLMAN: Résumé 
 ---
+![21D10371-454E-4C05-AD5E-920706AF8B00](https://github.com/Kelvokel/Kelvokel.github.io/assets/133821835/cc299f52-192b-4f65-ab91-d8766ab71660)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
+[Link to another page](./https://hackaschack.ati.org/participating-leadership-and-interns/).
 
 There should be whitespace between paragraphs.
 
