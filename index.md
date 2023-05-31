@@ -5,7 +5,7 @@ KELVIN HOLMAN: Résumé
 
 
 
-[Link to another page](./https://hackaschack.ati.org/participating-leadership-and-interns/).
+[Link to another page](./https://hackaschack.ati.org/participating-leadership-and-interns./another-page.html).
 
 There should be whitespace between paragraphs.
 
