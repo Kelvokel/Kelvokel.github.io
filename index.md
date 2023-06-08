@@ -15,11 +15,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Kelvin Holman
 
-## Header 2
+## Summary
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+ Responsible and motivated student ready to apply education in the workplace. Offers excellent technical abilities with software and applications, ability to handle challenging work, and excellent time management skills. Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills.
+
 
 ### Header 3
 
