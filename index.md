@@ -18,39 +18,68 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Summary
 
- Responsible and motivated student ready to apply education in the workplace. Offers excellent technical abilities with software and applications, ability to handle challenging work, and excellent time management skills. Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills.
+Well-rounded college student with leadership experience seeking an internship Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills. Hardworking employee with customer service, multitasking and time management abilities. Devoted to giving every customer a positive and memorable experience. Committed job seeker with a history of meeting company needs with consistent and organized practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand. Organized and motivated employee eager to apply time management and organizational skills in various environments. Seeking entry-level opportunities to expand skills while facilitating company growth.
 
+### Skills 3
 
-### Header 3
+Computer Skills
+Team Building
+Critical Thinking
+Active Listening
+Training & Development
+Basic Math
+Good Work Ethic
+Microsoft Office
+First Aid/CPR
+Reliable & Trustworthy
+Friendly, Positive Attitude
+People Skills
+Organizational Skills
+Planning & Organizing
+Relationship Building
+Supervision & Leadership
+Flexible Schedule
+Customer Service
+Problem Resolution
+Maintenance & Repair
+Data Management
+Team Management
+Concept Development
+Security Understanding
+Teamwork and Collaboration
+Analytical Thinking and Problem Solving
+Source and Version Control: Git, Github
+Software Development Standards
+Programming Languages: Java, C#, .Net, Python
+Code and Quality Standards
+Data Structures and Algorithms
+Time Management and Organization
+Strong Interpersonal and Communication Skills
+Eagerness to Learn New Technologies
+Web Programming
+Adobe Software
+Scripting Languages: PHP, Python, Javascript
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### Education  4
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Calculus 1
+Calculus 2
+Calculus 3
+Programming 1
+Programming 2
+Programing 3
+Data Structure
+Introduction to Statistics
+World lit. 1
+Logic, Set &Proof
+Principles of macroeconomics
 
-#### Header 4
+##### Experience  5
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Electrician 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+###### internships
+ ATI(Advance Technology International )
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
