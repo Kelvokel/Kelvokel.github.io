@@ -5,7 +5,7 @@ KELVIN HOLMAN: Résumé
 
 
 
-[Link to another page](./another-page.html).
+[Link to another page](./kemos.html).
 
 There should be whitespace between paragraphs.
 
